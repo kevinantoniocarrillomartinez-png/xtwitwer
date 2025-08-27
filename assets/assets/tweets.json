@@ -1,0 +1,18 @@
+[
+  {
+    "usuario": "@flutterdev",
+    "contenido": "Flutter es increíble 😍",
+    "gif": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"
+  },
+  {
+    "usuario": "@dartlang",
+    "contenido": "Dart hace que Flutter sea poderoso 🚀",
+    "gif": "https://media.giphy.com/media/26uTt2OegPSdVpOXq/giphy.gif"
+  },
+  {
+    "usuario": "@technews",
+    "contenido": "Las apps móviles evolucionan con Flutter",
+    "gif": "https://media.giphy.com/media/l2JJDf8XfLJPyB5C0/giphy.gif"
+  }
+
+]
